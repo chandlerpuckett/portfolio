@@ -20,6 +20,6 @@ Estimate of time needed to complete: **2 hours**
 
 Start time: **7:45am**
 
-Finish time: _____
+Finish time: **work in progress!!**
 
 Actual time needed to complete: _____
